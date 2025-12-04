@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "de.bytekontrol.docusign"
+    namespace = "de.bytekontrol.signingapp"
     compileSdk = 34
 
     defaultConfig {
