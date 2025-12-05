@@ -29,12 +29,21 @@ android {
 
     signingConfigs {
         create("release") {
-            // Try environment variables first (GitHub), then properties file (local)
-            storeFile = file(
-                System.getenv("KEYSTORE_FILE")
-                    ?: keystoreProperties.getProperty("storeFile")
-                    ?: "signing-key.jks"
-            )
+            // Get the path from the environment variable (which is an absolute path)
+            val envKeystorePath = System.getenv("KEYSTORE_FILE")
+
+            storeFile = if (envKeystorePath != null) {
+                // Use the absolute path provided by GitHub Actions
+                file(envKeystorePath)
+            } else {
+                // Use rootProject.file() for local or fallback paths
+                rootProject.file(
+                    keystoreProperties.getProperty("storeFile")
+                        ?: "signing-key.jks"
+                )
+            }
+
+            // Passwords remain the same, as they are not file paths
             storePassword = System.getenv("KEYSTORE_PASSWORD")
                 ?: keystoreProperties.getProperty("storePassword")
             keyAlias = System.getenv("KEY_ALIAS")

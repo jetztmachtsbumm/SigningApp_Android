@@ -46,7 +46,7 @@ jobs:
           KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
 
       - name: Build Signed Release APK
-        run: ./gradlew assembleRelease --stacktrace --info | grep -i sign
+        run: ./gradlew assembleRelease --stacktrace --info
         env:
           KEYSTORE_FILE: ${{ github.workspace }}/signing-key.jks
           KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
