@@ -1,0 +1,15 @@
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\bin\Debug\net9.0\ProvisioningGenerator.exe
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\bin\Debug\net9.0\ProvisioningGenerator.deps.json
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\bin\Debug\net9.0\ProvisioningGenerator.runtimeconfig.json
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\bin\Debug\net9.0\ProvisioningGenerator.dll
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\bin\Debug\net9.0\ProvisioningGenerator.pdb
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\obj\Debug\net9.0\ProvisioningGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\obj\Debug\net9.0\ProvisioningGenerator.AssemblyInfoInputs.cache
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\obj\Debug\net9.0\ProvisioningGenerator.AssemblyInfo.cs
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\obj\Debug\net9.0\ProvisioningGenerator.csproj.CoreCompileInputs.cache
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\obj\Debug\net9.0\ProvisioningGenerator.sourcelink.json
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\obj\Debug\net9.0\ProvisioningGenerator.dll
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\obj\Debug\net9.0\refint\ProvisioningGenerator.dll
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\obj\Debug\net9.0\ProvisioningGenerator.pdb
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\obj\Debug\net9.0\ProvisioningGenerator.genruntimeconfig.cache
+C:\Users\JulianKellner\Desktop\Bytekontrol\SigningApp\src\Bytekontrol.SigningApp.Android\ProvisioningGenerator\obj\Debug\net9.0\ref\ProvisioningGenerator.dll
